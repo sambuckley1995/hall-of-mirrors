@@ -1,0 +1,25 @@
+[debug] [2019-11-08T10:20:30.469Z] ----------------------------------------------------------------------
+[debug] [2019-11-08T10:20:30.472Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\sam.buckley\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2019-11-08T10:20:30.472Z] CLI Version:   7.7.0
+[debug] [2019-11-08T10:20:30.472Z] Platform:      win32
+[debug] [2019-11-08T10:20:30.472Z] Node Version:  v12.10.0
+[debug] [2019-11-08T10:20:30.474Z] Time:          Fri Nov 08 2019 10:20:30 GMT+0000 (Greenwich Mean Time)
+[debug] [2019-11-08T10:20:30.474Z] ----------------------------------------------------------------------
+[debug] [2019-11-08T10:20:30.474Z] 
+[debug] [2019-11-08T10:20:30.485Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-11-08T10:20:30.486Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\sam.buckley\sites\hall-of-mirrors
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
